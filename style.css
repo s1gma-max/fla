@@ -1,0 +1,76 @@
+h1{
+    text-align:center;
+    color: rgb(255, 174, 0);
+}       
+
+.menu{
+    padding: 10px;
+    list-style-type: none;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+
+.link{
+    color: gold;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.3s;
+}
+
+.link:hover{
+    color: brown;
+    text-decoration: underline;
+}
+img{
+    width: 500px;
+    height: 600px;
+
+}
+
+.text{
+    text-align: center;
+    width: 300%;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    
+}
+
+div{
+    width: 600px;
+    height: 1000px;;
+}
+
+section{
+    width: 400px;
+    height: 300px;
+    
+}
+
+.tetatet{
+    width: 300%;
+    text-align: start;
+    text-align: center;
+    margin-right: 250%;
+}
+
+
+.pic img{
+    margin-top: 560px;
+}
+
+
+.pitc img{
+    margin-top: 950px;
+    height: 300px;
+}
+.tetwwt{
+    text-align: center;
+    width: 300%;
+}
+
+h2{
+    color: rgb(192, 189, 189);
+}
